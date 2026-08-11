@@ -21,7 +21,8 @@ This dashboard explores:
 > **Which employee characteristics and workplace factors are associated with higher employee attrition?**
 The analysis focuses on identifying patterns rather than establishing causal relationships.
 
-# Dashboard Preview## Overview
+# Dashboard Preview
+## Overview
 ![HR Attrition Overview](screenshots/overview.png)
 The Overview page provides a high-level summary of employee attrition and allows users to explore the data using interactive filters.
 ### Key Metrics
